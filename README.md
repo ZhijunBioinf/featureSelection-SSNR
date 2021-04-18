@@ -2,14 +2,14 @@
 stepwise non-linear regression based on support vector machine
 
 ## svmSNR.m
-main function to perform feature selection using SSNR. <\br>
+main function to perform feature selection using SSNR. <br>
 usage: [inpool_ind, outpool_ind, cv_mse0] = svmSNR(train, 5, ' -s 3 -t 2 ', 1, 'libsvm');
 
 ## CV_libsvm.m
 a function to optimize the super-parameters using cross-validation in libsvm.
 
 ## CV_liblinear.m
-a function to optimize the super-parameters using cross-validation in liblinear.
+a function to optimize the super-parameters using cross-validation in liblinear. <br>
 'liblinear' is an alternative SVM for data set with large sample size and high dimensional features.
 
 ## svm_train.mex**
