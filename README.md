@@ -1,5 +1,5 @@
 # featureSelection-SSNR
-stepwise non-linear regression based on support vector machine
+Stepwise Non-linear Regression based on Support Vector Machine
 
 ## svmSNR.m
 main function to perform feature selection using SSNR. <br>
