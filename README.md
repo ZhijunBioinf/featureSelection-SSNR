@@ -2,7 +2,7 @@
 stepwise non-linear regression based on support vector machine
 
 ## svmSNR.m
-main function to perform feature selection using SSNR.
+main function to perform feature selection using SSNR. <\br>
 usage: [inpool_ind, outpool_ind, cv_mse0] = svmSNR(train, 5, ' -s 3 -t 2 ', 1, 'libsvm');
 
 ## CV_libsvm.m
