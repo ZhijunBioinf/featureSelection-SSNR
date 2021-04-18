@@ -15,5 +15,5 @@ a function to optimize the super-parameters using cross-validation in liblinear.
 ## svm_train.mex**
 a mex file in the libsvm toolbox, which is used to train a svm model or do cross-validation in svm.
 
-## liblinear_train**
+## liblinear_train.mex**
 a mex file in the liblinear toolbox, which is used to train a liblinear model or do cross-validation in liblinear.
