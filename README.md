@@ -13,10 +13,12 @@ A function to optimize the super-parameters using cross-validation in liblinear.
 'liblinear' is an alternative SVM for data set with large sample size and high dimensional features.
 
 ## svm_train.mex**
-A mex file in the libsvm toolbox, which is used to train a svm model or do cross-validation in svm.
+A mex file in the libsvm toolbox, which is used to train a svm model or do cross-validation in svm. <br>
+[LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## liblinear_train.mex**
-A mex file in the liblinear toolbox, which is used to train a liblinear model or do cross-validation in liblinear.
+A mex file in the liblinear toolbox, which is used to train a liblinear model or do cross-validation in liblinear. <br>
+[Distributed LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/distributed-liblinear/)
 
 ## svm_scale_easy.m
 A function to scale training set and test set in a similar way. <br>
