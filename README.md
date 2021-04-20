@@ -22,5 +22,5 @@ A mex file in the liblinear toolbox, which is used to train a liblinear model or
 
 ## svm_scale_easy.m
 A function to scale training set and test set in a similar way. <br>
-Because kernel values usually depend on the inner products of feature vectors, e.g. the linear kernel and the polynomial kernel, large attribute values might cause numerical problems. We recommend linearly scaling each attribute to the range [−1, +1] or [0, 1]. <br>
+Scaling before applying SVM is very important. Because kernel values usually depend on the inner products of feature vectors, e.g. the linear kernel and the polynomial kernel, large attribute values might cause numerical problems. We recommend linearly scaling each attribute to the range [−1, +1] or [0, 1]. <br>
 [A practical guide to support vector classification](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
