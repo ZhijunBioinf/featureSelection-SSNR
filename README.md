@@ -26,6 +26,7 @@ Scaling before applying SVM is very important. Because kernel values usually dep
 [A practical guide to support vector classification](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
 
 ## Article citation:
-Zhou, H., Ba, Q., Yuan, Z., Dai*, Z., 2022. QSAR Modeling on Angiotensin-Converting Enzyme Inhibitory Peptides Based on Stepwise Non-linear Regression (Published in Chinese: 基于逐步非线性回归的血管紧张素转化酶抑制肽QSAR建模). Chemistry (化学通报 [indexed by CSCD]). 85(6): 736-745.  
+H Zhou, Q Ba, Z Yuan, Z Dai*. QSAR Modeling on Angiotensin-Converting Enzyme Inhibitory Peptides Based on Stepwise Non-linear Regression (Published in Chinese: 基于逐步非线性回归的血管紧张素转化酶抑制肽QSAR建模). Chemistry (化学通报 [indexed by CSCD]). 2022, 85(6): 736-745.  
 
-* Attention: This toolbox/package is free for academic usage. For other purposes, please contact Zhijun Dai (daizhijun@hunau.edu.cn)
+## Attention:
+This toolbox/package is free for academic usage. For other purposes, please contact Zhijun Dai (daizhijun@hunau.edu.cn)
